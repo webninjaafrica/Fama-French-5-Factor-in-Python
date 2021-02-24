@@ -1,6 +1,8 @@
 
 ###############################
 # Fama French 5-Factor Model (2X3)-2021
+#improved by Kelvin Magochi:
+#website: https://wwww.webninjaafrica.com
 #################################
 
 import matplotlib
